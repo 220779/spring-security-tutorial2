@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435605f7-fbea-4e1b-a809-b643ecad6746" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/repository/UserRepository.java" afterDir="false" />
+    <list default="true" id="435605f7-fbea-4e1b-a809-b643ecad6746" name="Changes" comment="[add] basic classes implementation">
+      <change afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/model/UserModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-client2  /src/main/java/com/dailycodebuffer/springsecurityclient2/service/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +19,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,8 +94,16 @@
       <workItem from="1702290461750" duration="1090000" />
       <workItem from="1702291580416" duration="2025000" />
       <workItem from="1702293620607" duration="299000" />
-      <workItem from="1702293927803" duration="2822000" />
+      <workItem from="1702293927803" duration="6664000" />
     </task>
+    <task id="LOCAL-00001" summary="[add] basic classes implementation">
+      <created>1702297412015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702297412015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add] basic classes implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] basic classes implementation" />
   </component>
 </project>
